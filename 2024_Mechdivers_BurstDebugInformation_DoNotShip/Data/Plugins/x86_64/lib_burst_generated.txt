@@ -14,6 +14,9 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.ProBuilder.Stl;
+--assembly-defines=Unity.ResourceManager;
+--assembly-defines=Unity.ScriptableBuildPipeline;
+--assembly-defines=Unity.InternalAPIEngineBridge.013;
 --assembly-defines=FMODUnityResonance;
 --assembly-defines=Unity.ProBuilder.Csg;
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
@@ -27,6 +30,7 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.ProBuilder;
+--assembly-defines=Unity.Localization;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
@@ -36,8 +40,11 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.RenderPipelines.Universal.Shaders;
 --assembly-defines=Unity.VisualScripting.State;
+--assembly-defines=Unity.Addressables;
+--assembly-defines=Facepunch.Steamworks.Win64;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
+--assembly-defines=Newtonsoft.Json;
 --assembly-defines=System.Runtime;
 --assembly-defines=netstandard;
 --assembly-defines=Mono.Security;
@@ -85,6 +92,9 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.ProBuilder.Stl;
+--assembly-defines=Unity.ResourceManager;
+--assembly-defines=Unity.ScriptableBuildPipeline;
+--assembly-defines=Unity.InternalAPIEngineBridge.013;
 --assembly-defines=FMODUnityResonance;
 --assembly-defines=Unity.ProBuilder.Csg;
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
@@ -98,6 +108,7 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.ProBuilder;
+--assembly-defines=Unity.Localization;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
@@ -107,8 +118,11 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.RenderPipelines.Universal.Shaders;
 --assembly-defines=Unity.VisualScripting.State;
+--assembly-defines=Unity.Addressables;
+--assembly-defines=Facepunch.Steamworks.Win64;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
+--assembly-defines=Newtonsoft.Json;
 --assembly-defines=System.Runtime;
 --assembly-defines=netstandard;
 --assembly-defines=Mono.Security;
@@ -154,6 +168,9 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.ProBuilder.Stl;
+--assembly-defines=Unity.ResourceManager;
+--assembly-defines=Unity.ScriptableBuildPipeline;
+--assembly-defines=Unity.InternalAPIEngineBridge.013;
 --assembly-defines=FMODUnityResonance;
 --assembly-defines=Unity.ProBuilder.Csg;
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
@@ -167,6 +184,7 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.ProBuilder;
+--assembly-defines=Unity.Localization;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
@@ -176,8 +194,11 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.RenderPipelines.Universal.Shaders;
 --assembly-defines=Unity.VisualScripting.State;
+--assembly-defines=Unity.Addressables;
+--assembly-defines=Facepunch.Steamworks.Win64;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
+--assembly-defines=Newtonsoft.Json;
 --assembly-defines=System.Runtime;
 --assembly-defines=netstandard;
 --assembly-defines=Mono.Security;
@@ -229,6 +250,9 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.ProBuilder.Stl;
+--assembly-defines=Unity.ResourceManager;
+--assembly-defines=Unity.ScriptableBuildPipeline;
+--assembly-defines=Unity.InternalAPIEngineBridge.013;
 --assembly-defines=FMODUnityResonance;
 --assembly-defines=Unity.ProBuilder.Csg;
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
@@ -242,6 +266,7 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.ProBuilder;
+--assembly-defines=Unity.Localization;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.Timeline;
@@ -251,8 +276,11 @@ Library: G:\Unity Projects\2024_Mechdivers\Temp\BurstOutput\Data\Plugins\x86_64\
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.RenderPipelines.Universal.Shaders;
 --assembly-defines=Unity.VisualScripting.State;
+--assembly-defines=Unity.Addressables;
+--assembly-defines=Facepunch.Steamworks.Win64;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
+--assembly-defines=Newtonsoft.Json;
 --assembly-defines=System.Runtime;
 --assembly-defines=netstandard;
 --assembly-defines=Mono.Security;
